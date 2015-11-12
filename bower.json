@@ -1,0 +1,22 @@
+{
+  "name": "Project",
+  "description": "0.1.0",
+  "main": "project",
+  "moduleType": [],
+  "authors": [
+    "Julien Zrinheld"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "foundation": "~5.5.3"
+  }
+}
